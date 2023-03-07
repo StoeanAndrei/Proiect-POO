@@ -1,5 +1,5 @@
 /// STOEAN Andrei-Cosmin
-/// 321AC
+
 #include <iostream>
 #include <fstream>
 #include <stdlib.h>
